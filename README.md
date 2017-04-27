@@ -1,7 +1,7 @@
-BrowserQuest
+BestQuest
 ============
 
-BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
+BestQuest is a HTML5/JavaScript multiplayer game experiment.
 
 
 Documentation
