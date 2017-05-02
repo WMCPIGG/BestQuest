@@ -1,7 +1,7 @@
 BestQuest
 ============
 
-BestQuest is a HTML5/JavaScript multiplayer game experiment.
+BestQuest is fork of BrowserQuest, an HTML5/JavaScript multiplayer game experiment. It shouldn't be run by anyone except me, but the code's here anyway.
 
 
 Documentation
